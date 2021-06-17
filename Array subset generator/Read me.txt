@@ -1,0 +1,2 @@
+the program takes an array of integers.
+it outputs the subsets of the array using template and stack imitating recursion

@@ -1,0 +1,8 @@
+﻿  Assignment 2.cpp
+E:\FCI\4th Year 1st Term\Concepts of Programming languages\Assignments\Assignment 2\Assignment 2\Assignment 2\Assignment 2.cpp(19,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\FCI\4th Year 1st Term\Concepts of Programming languages\Assignments\Assignment 2\Assignment 2\Assignment 2\Assignment 2.cpp(52): message : see reference to function template instantiation 'void ArraySubsets<int>(T *,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  Assignment 2.vcxproj -> E:\FCI\4th Year 1st Term\Concepts of Programming languages\Assignments\Assignment 2\Assignment 2\Debug\Assignment 2.exe

@@ -1,0 +1,2 @@
+the program calculates the area of circle, rectangle and square.
+it uses structs instead of classes and imitates its inhertance.
